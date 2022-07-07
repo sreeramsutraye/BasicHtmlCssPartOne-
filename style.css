@@ -1,0 +1,13 @@
+.container {
+    font-family:'Courier New';
+}
+
+.container .main-header{
+    background-color:aquamarine;
+    text-align:center;
+}
+
+.navbar {
+    color:white;
+    background-color:black;
+}
